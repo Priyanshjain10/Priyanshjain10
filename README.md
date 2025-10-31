@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/github/stars/Priyanshjain10?label=Stars&style=social" alt="stars" />
   </a>
   <img src="https://img.shields.io/badge/Focus-AI%2FML-blue?style=flat" alt="focus" />
-  <img src="https://img.shields.io/badge/Lives-India-success?style=flat" alt="location" />
+
 </p>
 
 </div>
@@ -53,8 +53,8 @@ I'm a passionate developer who loves building innovative solutions and contribut
 <div align="center">
 
 <a href="https://github.com/Priyanshjain10">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Priyanshjain10&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshjain10&layout=compact&theme=radical&hide_border=true&langs_count=10" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Priyanshjain10&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshjain10&layout=compact&theme=radical&hide_border=true&langs_count=10" />
 </a>
 
 <br>
@@ -89,7 +89,11 @@ I'm a passionate developer who loves building innovative solutions and contribut
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Priyanshjain10/Priyanshjain10/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Priyanshjain10/Priyanshjain10/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Priyanshjain10/Priyanshjain10/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Priyanshjain10/Priyanshjain10/output/github-contribution-grid-snake.svg">
+
 
 </div>
 
@@ -109,8 +113,6 @@ I'm a passionate developer who loves building innovative solutions and contribut
   <a href="mailto:your.email@iitj.ac.in">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
 
