@@ -5,7 +5,8 @@
 
 <!-- Dynamic Typing Animation - UPDATED! -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF¢er=true&vCenter=true&width=700&lines=AI%2FML+Engineer+%7C+Data+Science+Enthusiast;Open+Source+Contributor+%7C+Python+Developer;Building+Innovative+AI%2FML+Solutions;Machine+Learning+%7C+Deep+Learning+%7C+MLOps;IIT+Jodhpur+%7C+Tech+Innovator" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+%7C+Data+Science+Enthusiast;Open+Source+Contributor+%7C+Python+Developer;Building+Innovative+AI%2FML+Solutions;Machine+Learning+%7C+Deep+Learning+%7C+MLOps;IIT+Jodhpur+%7C+Tech+Innovator" alt="Typing SVG" /></a><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF8
+                                        =true&vCenter=true&width=700&lines=AI%2FML+Engineer+%7C+Data+Science+Enthusiast;Open+Source+Contributor+%7C+Python+Developer;Building+Innovative+AI%2FML+Solutions;Machine+Learning+%7C+Deep+Learning+%7C+MLOps;IIT+Jodhpur+%7C+Tech+Innovator" alt="Typing SVG" /></a>
 </p>
 
 <!-- Enhanced Stats Badges Row -->
