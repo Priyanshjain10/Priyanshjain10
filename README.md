@@ -77,12 +77,14 @@ I'm a passionate developer who loves building innovative solutions and contribut
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
 </h2>
 
-<div align="center">
+<p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Priyanshjain10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Priyanshjain10&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&sideNums=FFFFFF&sideLabels=00D9FF&dates=FFFFFF" alt="GitHub Streak"/>
-</div>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshjain10&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&sideNums=FFFFFF&sideLabels=00D9FF&dates=FFFFFF" alt="GitHub Streak"/>
+</p>
 
-<br>
+<p align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshjain10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8&hide=jupyter%20notebook" alt="Top Languages"/>
+</p>
 
 <p align="center">  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshjain10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8&hide=jupyter%20notebook" alt="Top Languages"/>
 </p>or=FFFFFF&langs_count=8&hide=jupyter%20notebook" alt="Top Languages"/>
