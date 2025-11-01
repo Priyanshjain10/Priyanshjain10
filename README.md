@@ -146,7 +146,14 @@ I'm a passionate developer who loves building innovative solutions and contribut
 </h2>
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/priyanshjain"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/></a>
+  If you like my projects and find them useful, consider:
+</p>
+
+<p align="center">
+  ⭐ <strong>Starring</strong> my repositories<br>
+  🍴 <strong>Forking</strong> and contributing to projects<br>
+  👥 <strong>Following</strong> me for updates<br>
+  💬 <strong>Sharing</strong> my work with others
 </p>
 
 <!-- Footer Wave -->
