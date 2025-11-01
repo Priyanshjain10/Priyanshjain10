@@ -102,10 +102,9 @@ I'm a passionate developer who loves building innovative solutions and contribut
 <h3 align="center">🏆 Open Source Badges</h3>
 <p align="center">
   <a href="https://holopin.io/@priyanshjain10">
-    <img src="https://holopin.me/priyanshjain10" alt="Holopin Badges"/>
-  </a>
+    <img src="https://holopin.io/api/user/board?user=priyanshjain10" alt="Holopin Badges"/> 
+    </a>
 </p>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Contribution Snake -->
