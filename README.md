@@ -75,7 +75,13 @@ I'm a passionate developer who loves building innovative solutions and contribut
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"><br>
   <br>
 <h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics <img   <img width="49%" src="https://streak-stats.demolab.com/?user=Priyanshjain10&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&sideNums=FFFFFF&sideLabels=00D9FF&dates=FFFFFF" alt="GitHub Streak"/>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
+</h2>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Priyanshjain10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Priyanshjain10&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&sideNums=FFFFFF&sideLabels=00D9FF&dates=FFFFFF" alt="GitHub Streak"/>
+</p>width="49%" src="https://streak-stats.demolab.com/?user=Priyanshjain10&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&sideNums=FFFFFF&sideLabels=00D9FF&dates=FFFFFF" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
