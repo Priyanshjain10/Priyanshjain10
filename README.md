@@ -1,6 +1,6 @@
 <!-- Animated Waving Header -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=PRIYANSH%20JAIN&fontSize=50&fontAlignY=35&desc=AI/ML%20Explorer%20%E2%80%A2%20Open%20Source%20Enthusiast%20%E2%80%A2%20IIT%20Jodhpur&descAlignY=55&descAlign=50&animation=fadeIn"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=PRIYANSH%20JAIN&fontSize=50&fontAlignY=35&desc=AI/ML%20Explorer%20•%20Open%20Source%20Enthusiast%20•%20IIT%20Jodhpur&descAlignY=55&descAlign=50&animation=fadeIn"/>
 </div>
 
 <!-- Dynamic Typing Animation -->
@@ -10,8 +10,8 @@
 
 <!-- Enhanced Stats Badges Row -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Priyanshjain10&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/Priyanshjain10?label=Followers&style=for-the-badge&logo=github&color=blue" alt="Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=Priyanshjain10&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" alt="Profile Views"/> 
+  <img src="https://img.shields.io/github/followers/Priyanshjain10?label=Followers&style=for-the-badge&logo=github&color=blue" alt="Followers"/> 
   <img src="https://img.shields.io/github/stars/Priyanshjain10?label=Stars&style=for-the-badge&logo=github&color=yellow" alt="Stars"/>
 </p>
 
@@ -23,14 +23,46 @@
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About Me <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">
 </h2>
 
-I'm a passionate developer who loves building innovative solutions and contributing to open-source projects. Currently exploring the exciting world of AI/ML and working on cool projects!
+<div align="center">
 
-- 🎓 **Education:** IIT Jodhpur
-- 🔭 **Currently working on:** AI/ML projects and open-source contributions  
-- 🌱 **Learning:** Advanced Python, Machine Learning & Data Science, MLOps
-- 👥 **Looking to collaborate on:** Open-source projects and innovative AI solutions
-- 💬 **Ask me about:** Python, AI/ML, or anything tech!
-- ⚡ **Fun fact:** I love solving complex problems with elegant code
+```python
+class PriyanshJain:
+    def __init__(self):
+        self.name = "Priyansh Jain"
+        self.education = "IIT Jodhpur"
+        self.certification = "Oracle Data Science Certified"
+        self.role = "AI/ML Engineer"
+        self.interests = ["Machine Learning", "Data Science", "Open Source"]
+        
+    def current_focus(self):
+        return {
+            "working_on": ["AI/ML Projects", "Open Source Contributions"],
+            "learning": ["Advanced Python", "MLOps", "Deep Learning"],
+            "collaborating_on": ["Innovative AI Solutions", "Open Source"],
+        }
+    
+    def say_hi(self):
+        print("Thanks for visiting! Let's build something amazing together 🚀")
+
+me = PriyanshJain()
+me.say_hi()
+```
+
+</div>
+
+<br>
+
+<div align="center">
+
+🎓 **Education:** IIT Jodhpur  
+🏆 **Certification:** Oracle Data Science Certified  
+🔭 **Currently working on:** AI/ML projects and open-source contributions  
+🌱 **Learning:** Advanced Python, Machine Learning & Data Science, MLOps  
+👥 **Looking to collaborate on:** Open-source projects and innovative AI solutions  
+💬 **Ask me about:** Python, AI/ML, Data Science, or anything tech!  
+⚡ **Fun fact:** I love solving complex problems with elegant code
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -41,23 +73,27 @@ I'm a passionate developer who loves building innovative solutions and contribut
 
 ### 🤖 AI/ML & Data Science
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" alt="AI/ML Stack" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
 </p>
 
-### 💻 Programming & Tools
+### 💻 Programming & Development
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,js,git,github,vscode&theme=dark" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css,git,github,vscode,linux" alt="Programming & Tools" />
 </p>
 
-### ☁️ DevOps & Cloud  
+### ☁️ DevOps & Cloud
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,linux&theme=dark" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,aws" alt="DevOps & Cloud" />
+  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud" />
+</p>
+
+### 🗄️ Databases & Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,fastapi,flask" alt="Databases & Backend" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -67,93 +103,125 @@ I'm a passionate developer who loves building innovative solutions and contribut
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
 </h2>
 
+<div align="center">
+  
+### 📊 GitHub Stats & Streak
+  
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Priyanshjain10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://streak-stats.demolab.com/?user=Priyanshjain10&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&sideNums=FFFFFF&sideLabels=00D9FF&dates=FFFFFF" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Priyanshjain10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.demolab.com/?user=Priyanshjain10&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+### 💻 Most Used Languages
+
+<p align="center">
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshjain10&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
+</p>
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshjain10&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" alt="Contribution Graph" />
+</p>
+
+### 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Priyanshjain10&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
+</p>
+
+### 📊 GitHub Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyanshjain10&theme=tokyonight" alt="Profile Summary" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshjain10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8&hide=jupyter%20notebook" alt="Top Languages"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Priyanshjain10&theme=tokyonight" alt="Repos per Language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Priyanshjain10&theme=tokyonight" alt="Most Commit Language" />
 </p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Contribution Activity -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> Contribution Activity <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30">
-</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshjain10&custom_title=Priyansh's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true&title_color=00D9FF" alt="Contribution Graph"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Priyanshjain10&theme=tokyonight" alt="Stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Priyanshjain10&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
 </p>
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Priyanshjain10/Priyanshjain10/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Achievements Section -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> Achievements <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Achievements & Badges <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
 </h2>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Priyanshjain10&theme=tokyonight&no-frame=true&no-bg=false&margin-w=10&column=7" alt="GitHub Trophies"/>
-</p>
+<div align="center">
 
-<!-- Holopin Badges -->
-<h3 align="center">🏆 Open Source Badges</h3>
-<p align="center">
-  <a href="https://holopin.io/@priyanshjain10">
-    <img src="https://holopin.io/api/user/board?user=priyanshjain10" alt="Holopin Badges"/> 
-    </a>
-</p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+### 🎖️ Holopin Badge Board
 
-<!-- Contribution Snake -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> Contribution Snake <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30">
-</h2>
+[![@priyanshjain10's Holopin board](https://holopin.me/priyanshjain10)](https://holopin.io/@priyanshjain10)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Priyanshjain10/Priyanshjain10/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-</p>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Let's Connect Section -->
+<!-- Connect Section -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Let's Connect <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
 </h2>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/priyansh-jain-iitj"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/Priyanshjain10"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:priyanshj1304@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+<div align="center">
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  <a href="https://www.linkedin.com/in/priyansh-jain-iitj">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Priyanshjain10">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://holopin.io/@priyanshjain10">
+    <img src="https://img.shields.io/badge/Holopin-7B3FF2?style=for-the-badge&logo=holopin&logoColor=white" alt="Holopin" />
+  </a>
+  <a href="mailto:priyanshj1304@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
-<p align="center">
-  <b style="color:#00D9FF;font-size:16px">⚡ "Code is like humor. When you have to explain it, it's bad." ⚡</b>
-</p>
+### 📧 Contact Me
+
+**Email:** [priyanshj1304@gmail.com](mailto:priyanshj1304@gmail.com)
+
+Feel free to reach out for collaborations, discussions, or just to say hi! 👋
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Support Section -->
 <h2 align="center">
-  💖 Support My Work
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Support My Work <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
 </h2>
 
-<p align="center">
-  If you like my projects and find them useful, consider:
-</p>
+<div align="center">
 
-<p align="center">
-  ⭐ <strong>Starring</strong> my repositories<br>
-  🍴 <strong>Forking</strong> and contributing to projects<br>
-  👥 <strong>Following</strong> me for updates<br>
-  💬 <strong>Sharing</strong> my work with others
-</p>
+If you like my projects and find them useful, consider:
+
+⭐ **Starring** my repositories  
+🍴 **Forking** and contributing to projects  
+👥 **Following** me for updates  
+💬 **Sharing** my work with others
+
+<br>
+
+**⚡ "Code is like humor. When you have to explain it, it's bad." ⚡**
+
+</div>
 
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
