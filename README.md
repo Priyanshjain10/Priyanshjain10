@@ -160,5 +160,13 @@ I'm a passionate developer who loves building innovative solutions and contribut
 ## 📊 Recent Activity
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#7966](undefined) in [Codecademy/docs](https://github.com/Codecademy/docs)
+2. 🗣 Commented on [#7932](https://github.com/Codecademy/docs/issues/7932#issuecomment-3506002400) in [Codecademy/docs](https://github.com/Codecademy/docs)
+3. 🗣 Commented on [#166817](https://github.com/pytorch/pytorch/pull/166817#issuecomment-3505887998) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
+4. 💪 Opened PR [#136](undefined) in [visenger/awesome-mlops](https://github.com/visenger/awesome-mlops)
+5. 💪 Opened PR [#208](undefined) in [mjhea0/awesome-fastapi](https://github.com/mjhea0/awesome-fastapi)
+6. 🗣 Commented on [#63429](https://github.com/freeCodeCamp/freeCodeCamp/pull/63429#issuecomment-3486767400) in [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+7. 💪 Opened PR [#42011](undefined) in [huggingface/transformers](https://github.com/huggingface/transformers)
+8. 🗣 Commented on [#63429](https://github.com/freeCodeCamp/freeCodeCamp/pull/63429#issuecomment-3485214026) in [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 <!--END_SECTION:activity-->
 
