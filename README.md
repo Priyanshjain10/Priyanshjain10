@@ -160,13 +160,13 @@ I'm a passionate developer who loves building innovative solutions and contribut
 ## 📊 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7817](https://github.com/Codecademy/docs/issues/7817#issuecomment-3515249054) in [Codecademy/docs](https://github.com/Codecademy/docs)
-2. 🗣 Commented on [#7946](https://github.com/Codecademy/docs/issues/7946#issuecomment-3515245874) in [Codecademy/docs](https://github.com/Codecademy/docs)
-3. 🗣 Commented on [#7482](https://github.com/Codecademy/docs/issues/7482#issuecomment-3511276165) in [Codecademy/docs](https://github.com/Codecademy/docs)
-4. 🗣 Commented on [#7381](https://github.com/Codecademy/docs/issues/7381#issuecomment-3511268636) in [Codecademy/docs](https://github.com/Codecademy/docs)
-5. 🗣 Commented on [#7946](https://github.com/Codecademy/docs/issues/7946#issuecomment-3511261305) in [Codecademy/docs](https://github.com/Codecademy/docs)
-6. 🗣 Commented on [#7667](https://github.com/Codecademy/docs/issues/7667#issuecomment-3511255563) in [Codecademy/docs](https://github.com/Codecademy/docs)
-7. 🗣 Commented on [#7817](https://github.com/Codecademy/docs/issues/7817#issuecomment-3511248825) in [Codecademy/docs](https://github.com/Codecademy/docs)
-8. 💪 Opened PR [#7966](undefined) in [Codecademy/docs](https://github.com/Codecademy/docs)
+1. 💪 Opened PR [#42148](undefined) in [huggingface/transformers](https://github.com/huggingface/transformers)
+2. 💪 Opened PR [#7983](undefined) in [Codecademy/docs](https://github.com/Codecademy/docs)
+3. 💪 Opened PR [#7982](undefined) in [Codecademy/docs](https://github.com/Codecademy/docs)
+4. 💪 Opened PR [#1](undefined) in [Priyanshjain10/docs](https://github.com/Priyanshjain10/docs)
+5. 🗣 Commented on [#7482](https://github.com/Codecademy/docs/issues/7482#issuecomment-3515252378) in [Codecademy/docs](https://github.com/Codecademy/docs)
+6. 🗣 Commented on [#7817](https://github.com/Codecademy/docs/issues/7817#issuecomment-3515249054) in [Codecademy/docs](https://github.com/Codecademy/docs)
+7. 🗣 Commented on [#7946](https://github.com/Codecademy/docs/issues/7946#issuecomment-3515245874) in [Codecademy/docs](https://github.com/Codecademy/docs)
+8. 🗣 Commented on [#7482](https://github.com/Codecademy/docs/issues/7482#issuecomment-3511276165) in [Codecademy/docs](https://github.com/Codecademy/docs)
 <!--END_SECTION:activity-->
 
