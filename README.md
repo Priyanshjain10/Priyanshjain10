@@ -160,13 +160,13 @@ I'm a passionate developer who loves building innovative solutions and contribut
 ## 📊 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#42148](undefined) in [huggingface/transformers](https://github.com/huggingface/transformers)
-2. 💪 Opened PR [#7983](undefined) in [Codecademy/docs](https://github.com/Codecademy/docs)
-3. 💪 Opened PR [#7982](undefined) in [Codecademy/docs](https://github.com/Codecademy/docs)
-4. 💪 Opened PR [#1](undefined) in [Priyanshjain10/docs](https://github.com/Priyanshjain10/docs)
-5. 🗣 Commented on [#7482](https://github.com/Codecademy/docs/issues/7482#issuecomment-3515252378) in [Codecademy/docs](https://github.com/Codecademy/docs)
-6. 🗣 Commented on [#7817](https://github.com/Codecademy/docs/issues/7817#issuecomment-3515249054) in [Codecademy/docs](https://github.com/Codecademy/docs)
-7. 🗣 Commented on [#7946](https://github.com/Codecademy/docs/issues/7946#issuecomment-3515245874) in [Codecademy/docs](https://github.com/Codecademy/docs)
-8. 🗣 Commented on [#7482](https://github.com/Codecademy/docs/issues/7482#issuecomment-3511276165) in [Codecademy/docs](https://github.com/Codecademy/docs)
+1. 💪 Opened PR [#42152](undefined) in [huggingface/transformers](https://github.com/huggingface/transformers)
+2. ❌ Reopened PR [#42150](undefined) in [huggingface/transformers](https://github.com/huggingface/transformers)
+3. ❌ Closed PR [#42150](undefined) in [huggingface/transformers](https://github.com/huggingface/transformers)
+4. 💪 Opened PR [#1](undefined) in [Priyanshjain10/transformers](https://github.com/Priyanshjain10/transformers)
+5. 🗣 Commented on [#42148](https://github.com/huggingface/transformers/pull/42148#issuecomment-3518103710) in [huggingface/transformers](https://github.com/huggingface/transformers)
+6. ❌ Closed PR [#42148](undefined) in [huggingface/transformers](https://github.com/huggingface/transformers)
+7. 🗣 Commented on [#42148](https://github.com/huggingface/transformers/pull/42148#issuecomment-3517322406) in [huggingface/transformers](https://github.com/huggingface/transformers)
+8. 🗣 Commented on [#42148](https://github.com/huggingface/transformers/pull/42148#issuecomment-3517288636) in [huggingface/transformers](https://github.com/huggingface/transformers)
 <!--END_SECTION:activity-->
 
