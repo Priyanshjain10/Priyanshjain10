@@ -156,17 +156,3 @@ I'm a passionate developer who loves building innovative solutions and contribut
 </p>
 
 ---
-
-## 📊 Recent Activity
-
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#42152](undefined) in [huggingface/transformers](https://github.com/huggingface/transformers)
-2. ❌ Reopened PR [#42150](undefined) in [huggingface/transformers](https://github.com/huggingface/transformers)
-3. ❌ Closed PR [#42150](undefined) in [huggingface/transformers](https://github.com/huggingface/transformers)
-4. 💪 Opened PR [#1](undefined) in [Priyanshjain10/transformers](https://github.com/Priyanshjain10/transformers)
-5. 🗣 Commented on [#42148](https://github.com/huggingface/transformers/pull/42148#issuecomment-3518103710) in [huggingface/transformers](https://github.com/huggingface/transformers)
-6. ❌ Closed PR [#42148](undefined) in [huggingface/transformers](https://github.com/huggingface/transformers)
-7. 🗣 Commented on [#42148](https://github.com/huggingface/transformers/pull/42148#issuecomment-3517322406) in [huggingface/transformers](https://github.com/huggingface/transformers)
-8. 🗣 Commented on [#42148](https://github.com/huggingface/transformers/pull/42148#issuecomment-3517288636) in [huggingface/transformers](https://github.com/huggingface/transformers)
-<!--END_SECTION:activity-->
-
