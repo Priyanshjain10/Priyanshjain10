@@ -156,3 +156,8 @@ I'm a passionate developer who loves building innovative solutions and contribut
 </p>
 
 ---
+
+## 🔥 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
